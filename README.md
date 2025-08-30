@@ -1,4 +1,4 @@
-# My-Playlist
+# Audrix - Music Player
 🎵 Audrix – Music Player
 This is a simple music player website made using HTML, CSS, and JavaScript. It allows users to play their favorite songs from a custom playlist with easy-to-use controls.
 
